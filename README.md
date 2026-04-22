@@ -27,7 +27,7 @@ The goal is to identify key risk factors and visualize trends for better underst
 
 ---
 
-🔍 Key Insights
+Key Insights
 
 * Obese patients show the highest diagnosis rate (~51%)
 * Diagnosis probability increases with chronic pain level
@@ -43,8 +43,7 @@ Tools & Technologies
 * DAX
 
 ---
-
-📂 Project Structure
+Project Structure
 
 dataset/ → Raw dataset
 pbix/ → Power BI file
@@ -52,13 +51,13 @@ images/ → Dashboard screenshots
 
 ---
 
-## 🚀 How to Use
+ How to Use
 
 1. Download the `.pbix` file
 2. Open in Power BI Desktop
 3. Use slicers to explore insights
 
 ---
- Author
+Author
 
 Midhat Feroz
