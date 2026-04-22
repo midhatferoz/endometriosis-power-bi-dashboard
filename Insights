@@ -1,0 +1,14 @@
+# Key Insights from Dashboard
+
+* Diagnosis rate increases significantly with chronic pain level
+* Obese patients have the highest diagnosis rate (~51%)
+* Pain level is a stronger predictor than BMI
+* Patients with both high BMI and high pain fall into the highest risk category
+
+## Business/Clinical Value
+
+This dashboard helps in:
+
+* Early identification of high-risk patients
+* Supporting clinical decision-making
+* Understanding symptom-driven diagnosis patterns
